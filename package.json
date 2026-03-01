@@ -2,6 +2,12 @@
   "name": "cms-client",
   "version": "0.2.0",
   "description": "Client SDK for connecting Next.js projects to Based CMS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/based-cms/client.git"
+  },
+  "homepage": "https://based-cms.dev",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -37,7 +43,6 @@
     "react": ">=19.0.0"
   },
   "devDependencies": {
-    "@based-cms/tsconfig": "workspace:*",
     "@types/react": "^19",
     "convex": "^1.21.0",
     "react": "^19.0.0",

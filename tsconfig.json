@@ -1,5 +1,5 @@
 {
-  "extends": "@based-cms/tsconfig/library.json",
+  "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "jsx": "react-jsx",
     "outDir": "dist"
