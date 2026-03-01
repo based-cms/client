@@ -1,5 +1,5 @@
 {
-  "name": "cms-client",
+  "name": "@based-cms/client",
   "version": "0.2.0",
   "description": "Client SDK for connecting Next.js projects to Based CMS",
   "license": "MIT",

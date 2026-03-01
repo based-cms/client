@@ -18,6 +18,10 @@ BASED-CMS-KEY=bcms_test-...
 - `BASED-CMS-SLUG`: public project slug
 - `BASED-CMS-KEY`: `bcms_<test|live>-<base64(deploymentName.SECRET)>`
 
-## Documentation
+## New Project?
 
-See the app repository docs for integration details (`docs/PACKAGE_USAGE.md`) and usage examples.
+Try our CLI for your first project.
+
+```bash
+npx @based-cms/get-started my-app
+```
